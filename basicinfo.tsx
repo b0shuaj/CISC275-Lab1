@@ -9,4 +9,4 @@ const yourMajor : String = "Information Systems, Computer Science";
 let classification : String = "Junior, Junior";
 let oneExcite : String = "to make an app, ditto";
 let anyConcerns : String = "getting lost or falling behind";
-let funFact : String = "i play drums, i have a cat";
+let funFact : String = "i play drums, i have a cat, and this is for step #5";
